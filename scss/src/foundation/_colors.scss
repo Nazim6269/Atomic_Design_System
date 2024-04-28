@@ -1,0 +1,25 @@
+/*=============================================
+=            Global text colors            =
+=============================================*/
+
+$body-text-color: var(--dse-body-text-color, $green) !default;
+$body-bg-color: var(--dse-body-bg-color, $white) !default;
+
+/*=====  End of Text colors  ======*/
+
+/*=============================================
+=            Button            =
+=============================================*/
+$btn-primary-color: var(--dse-btn-primary-color, $green-light) !default;
+$btn-primary-bg-color: var(--dse-primary-bg-color, $white) !default;
+$btn-primary-bg-hover: var(--dse-primary-bg-hover, $white) !default;
+
+/*=====  End of Buttonsw  ======*/
+
+/*=============================================
+=            Forms            =
+=============================================*/
+
+$form-border-color: var(--dse-form-border-color, $white) !default;
+
+/*=====  End of Forms  ======*/

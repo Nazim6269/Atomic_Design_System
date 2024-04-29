@@ -1,0 +1,8 @@
+@import "../foundation/all";
+
+.btn {
+  border: none;
+  border-radius: map-get($spacing, "xxxs");
+  font-family: $body-bg-color;
+  padding: map-get($spacing, "xxs") map-get($spacing, "sm");
+}

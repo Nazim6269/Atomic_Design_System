@@ -1,0 +1,21 @@
+{
+  "name": "@desigh_system/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nazim6269/Atomic_Design_System.git",
+  "author": "Nazim Uddin <107185368+Nazim6269@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "private": true,
+  "scripts": {
+    "build": "yarn lerna run build"
+  }
+}

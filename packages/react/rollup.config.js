@@ -9,5 +9,5 @@ module.exports = {
     preserveModules: true,
   },
   plugins: [TS()],
-  external: ["react"],
+  external: ["react", "@design_system/scss/lib/button.css"],
 };

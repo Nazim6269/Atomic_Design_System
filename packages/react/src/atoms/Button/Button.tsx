@@ -1,3 +1,4 @@
+import "@design_system/scss/lib/button.css";
 import React from "react";
 
 interface ButtonProps {

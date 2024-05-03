@@ -62,3 +62,7 @@
   font-family: var(--dse-body-bg-color, #fff);
   padding: 0.5rem 1rem;
 }
+
+.btn-primary {
+  background-color: var(--dse-body-bg-color, #fff);
+}
